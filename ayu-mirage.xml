@@ -1,13 +1,13 @@
 <scheme name="Ayu-mirage" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="212733" />
-    <option name="INDENT_GUIDE" value="FF0000" />
+    <option name="INDENT_GUIDE" value="39434D" />
     <option name="SELECTION_BACKGROUND" value="343F4C" />
     <option name="CARET_ROW_COLOR" value="242B38" />
     <option name="WHITESPACES" value="FF0000" />
     <option name="CARET_COLOR" value="FFCC66" />
     <option name="LINE_NUMBERS_COLOR" value="D9D7CE" />
-    <option name="SELECTED_INDENT_GUIDE" value="FF0000" />
+    <option name="SELECTED_INDENT_GUIDE" value="606F80" />
     <option name="GUTTER_BACKGROUND" value="212733" />
   </colors>
   <attributes>
