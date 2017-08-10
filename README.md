@@ -13,7 +13,7 @@ Copy the appropriate xml file to the IDEs preferences. For example, for Ayu Mira
 
 Preferences locations by platform:
 
-- Mac: `~/Library/Preferences/Gogland1.0`
+- Mac: `~/Library/Preferences/Gogland1.0/colors`
 - Win: `%USERPROFILE%\.Gogland1.0\config\colors`
 - Linux: `~/.Gogland1.0/colors`
 
@@ -25,8 +25,11 @@ If you would like to run the conversion yourself, clone the [colour scheme tool]
 
 ## TODO
 
-- [ ] Fix red indent line.
 - [ ] Merge into main Ayu project.
+
+## Contributors
+
+- [Pika3323](https://github.com/Pika3323)
 
 ## Related:
 
