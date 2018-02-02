@@ -1,6 +1,6 @@
 # Ayu for JetBrains
 
-This is an automated conversion of the [Ayu](https://github.com/dempfi/ayu) textmate theme to a JetBrains IDE theme.
+This is an automated conversion of the [Ayu](https://github.com/dempfi/ayu) colour scheme to a JetBrains IDE colour scheme.
 
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
 
