@@ -31,7 +31,7 @@ If you would like to run the conversion yourself, run `make`.
 
 ## Contributors
 
-* [Pika3323](https://github.com/Pika3323)
+* [dellisd](https://github.com/dellisd)
 
 ## Related:
 
